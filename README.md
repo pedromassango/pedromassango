@@ -3,9 +3,9 @@
 ### I'm Pedro(🇦🇴), a passionate mobile developer currently working with Flutter.
 
 - I am:
-  - [x] Google Associate Android Developer
-  - [x] GDG Luanda organizer
-  - [x] Open Source Contributor
+  - Google Associate Android Developer
+  - GDG Luanda organizer
+  - Open Source Contributor
 - Follow me on:
   - GitHub
   - [Twitter](https://twitter.com/pedromassangom)
