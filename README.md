@@ -1,12 +1,9 @@
-<!--
-**pedromassango/pedromassango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### Hi there 👋
 
-### I'm Pedro(🇦🇴), a passionate mobile developer working with Flutter and Native Android Development.
+### I'm Pedro(🇦🇴), a passionate mobile developer currently working with Flutter.
 
-- Google Associate Android Developer
-- GDG Luanda organizer
-- Open Source Contributor
-- I love to play videogames #DaysGone
+- I am:
+  - [x] Google Associate Android Developer
+  - [x] GDG Luanda organizer
+  - [x] Open Source Contributor
+- I love to play videogames.
