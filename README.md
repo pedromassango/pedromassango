@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ).
 - 📫 How to reach me: [Twitter](https://twitter.com/pedromassangom)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Coffee make me asleep.
+- ⚡ Fun fact: I don't drink Coffee, it makes me asleep.
 
 #### Follow me
 [![Twitter: pedromassangom](https://img.shields.io/twitter/follow/pedromassangom?style=social)](https://twitter.com/pedromassangom)
