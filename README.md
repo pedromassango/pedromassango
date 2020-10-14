@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### I'm Pedro(🇦🇴), a passionate mobile developer currently working with Flutter.
+### I'm Pedro, a passionate Mobile Developer currently working with Flutter.
 
 - 🔭 I’m currently working at [Nevercode](https://nevercode.io/).
-- 🥇 I have the [Google Associate Android Developer](https://www.credential.net/019829f6-f752-41e2-9f11-18adb584664a) certification
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ).
+- 🥇 I got the [Google Associate Android Developer](https://www.credential.net/019829f6-f752-41e2-9f11-18adb584664a) certification
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ) and open-source projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/pedromassangom)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I don't drink Coffee, it makes me asleep.
+- ⚡ Fun fact: I don't drink Coffee, it makes me asleep
 
 #### Follow me
 [![Twitter: pedromassangom](https://img.shields.io/twitter/follow/pedromassangom?style=social)](https://twitter.com/pedromassangom)
