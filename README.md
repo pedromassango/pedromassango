@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Pedro, a passionate Mobile Developer.
+### I'm Pedro, a passionate Mobile Engineer.
 
 - 🔭  Software Engineer at [Monstarlab](https://monstar-lab.com/global/) 
 - Experience with Flutter and Native Android development
@@ -13,8 +13,8 @@
 <!--- 📖  Currently learning: JavaScript -->
 
 #### Follow me
-[![Twitter: pedromassangom](https://img.shields.io/twitter/follow/pedromassangom?style=social)](https://twitter.com/pedromassangom)
 [![Linkedin: pedromassango](https://img.shields.io/badge/-pedromassango-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromassango/)](https://www.linkedin.com/in/pedromassango/)
+[![Twitter: pedromassangom](https://img.shields.io/twitter/follow/pedromassangom?style=social)](https://twitter.com/pedromassangom)
 [![GitHub pedromassango](https://img.shields.io/github/followers/pedromassango?label=follow&style=social)](https://github.com/pedromassango)
 
 **Languages and Tools:**  
