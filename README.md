@@ -2,7 +2,7 @@
 
 ### I'm Pedro, a passionate Mobile Engineer.
 
-- 🔭  Software Engineer at [Monstarlab](https://monstar-lab.com/global/) 
+- 🔭  Software Engineer at [Monstarlab](https://monstar-lab.com/global/) ex [NevercodeHQ](https://github.com/NevercodeHQ), [NEXT Solutions](https://github.com/nextbss)
 - 🥇 I'm a [Google Associate Android Developer](https://www.credential.net/019829f6-f752-41e2-9f11-18adb584664a)
 - 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ) and open-source projects.
 - 📫  How to reach me: [Twitter](https://twitter.com/pedromassangom)
