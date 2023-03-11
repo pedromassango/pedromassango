@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-### I'm Pedro, a passionate Mobile Engineer.
+### I'm Pedro, a Software Engineer.
 
-- 🔭  Software Engineer at [Monstarlab](https://monstar-lab.com/global/) ex [NevercodeHQ](https://github.com/NevercodeHQ), [NEXT Solutions](https://github.com/nextbss)
+- 🔭  Software Engineer at [Monta](https://monta.com) ex [Monstarlab](https://monstar-lab.com/global), [NevercodeHQ](https://github.com/NevercodeHQ), [NEXT Solutions](https://github.com/nextbss)
 - 🏅 Google Developer Expert for Flutter/Dart
 - 🥇 [Google Associate Android Developer](https://www.credential.net/019829f6-f752-41e2-9f11-18adb584664a)
 - 📫  How to reach me: [Twitter](https://twitter.com/pedromassangom)
 - 😄 Fun fact: I don't drink Coffee, it makes me asleep
+- 🌐 Portuguese, English
 
 <!--- 📖  Currently learning: JavaScript -->
 
