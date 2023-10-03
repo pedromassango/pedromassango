@@ -11,9 +11,10 @@
 - 🌐 Portuguese, English
 
 
-### Products build by me
+### Some of my products
 
-- [doc-ai.app](https//doc-ai.app) (try it out)
+- [Quicktype AI](https://play.google.com/store/apps/details?id=com.pedromassango.quicktype.ai)
+- [doc-ai.app](https//doc-ai.app)
 <!--- 📖  Currently learning: JavaScript -->
 
 #### Follow me
